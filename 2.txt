@@ -1,0 +1,85 @@
+checklist = {
+    "Location/Setting": {
+        "Urban areas with buildings": "N/A",
+        "City street": "N/A",
+        "Highway, suburban, rural, mountainous": "N/A",
+        "Vehicles in a parking lot, tollbooth, or on a highway ramp": "N/A",
+        "Narrow streets or cobblestone roads": "N/A"
+    },
+    "Vehicle Information": {
+        "Vehicle types": "Sedan or SUV (interior not fully visible from exterior).",
+        "Vehicle colors": "Interior view, exterior color not visible.",
+        "License plates": "N/A",
+        "Electric bikes and scooters present": "N/A"
+    },
+    "Traffic and Road Elements": {
+        "Traffic density": "N/A",
+        "Road markings": "N/A",
+        "Signage": "N/A",
+        "Road conditions": "N/A",
+        "Traffic lights": "N/A",
+        "Pedestrian elements": "N/A",
+        "Road barriers": "N/A",
+        "Bus stops or taxi stands": "N/A"
+    },
+    "Environmental and Weather Conditions": {
+        "Time of day": "Daylight.",
+        "Weather conditions": "Clear and sunny.",
+        "Seasons": "N/A",
+        "Visibility impacted by fog, snow, or glare": "N/A"
+    },
+    "Safety Equipment and Measures": {
+        "Seatbelts": "Both driver and passenger wearing seatbelts.",
+        "Car seats": "N/A",
+        "Helmets": "N/A",
+        "Airbags": "N/A",
+        "Car cameras": "N/A",
+        "Steering controls": "Driver holding the steering wheel.",
+        "Other safety-related devices": "N/A"
+    },
+    "Driver and Passenger Behaviors": {
+        "Driver distraction": "N/A",
+        "Passenger activities": "Passenger laughing and engaged, interacting with driver.",
+        "Emotional expressions": "Both driver and passenger are smiling and laughing.",
+        "Body language": "Relaxed, enjoying the drive.",
+        "Hands on the wheel": "Driver's hands are on the steering wheel.",
+        "Seat adjustments": "N/A",
+        "Sunglasses": "N/A"
+    },
+    "Technology Inside the Vehicle": {
+        "Mobile phones": "N/A",
+        "Navigation screens": "N/A",
+        "Car dashboard displays": "N/A",
+        "Interior mirrors": "N/A"
+    },
+    "Exterior and Pedestrian Elements": {
+        "Pedestrians walking on sidewalks, crossing streets": "N/A",
+        "Pedestrians using crosswalks, jaywalking, or standing on curbs": "N/A",
+        "Cyclists and bikers": "N/A",
+        "Other drivers": "N/A",
+        "Street vendors": "N/A",
+        "Street furniture": "N/A"
+    },
+    "Miscellaneous Elements": {
+        "Roadside advertisements": "N/A",
+        "Shops and storefronts": "N/A",
+        "Parked vehicles": "N/A",
+        "Construction zones": "N/A"
+    },
+	"Privacy Related Elements": {
+        "License plate": "N/A",
+        "Number of faces visible": "Two faces are visible",
+        "Clarity of faces": "Clear (Both faces are clearly visible and identifiable)",
+        "Expressions": "Smiling and laughing (Both individuals are visibly happy and laughing)",
+        "Phone visibility": "N/A",
+		"Gender":"A mand and a woman"
+    },
+    "Distracted drivers": "N/A",
+    "Passengers assisting with navigation": "N/A",
+    "Child in car seat": "N/A",
+    "Hands on mobile phones": "N/A",
+    "Seatbelt buckling/unbuckling": "N/A",
+    "Phone conversation while driving": "N/A",
+    "Rear-view focus": "N/A",
+    "Child safety seats": "N/A"
+}

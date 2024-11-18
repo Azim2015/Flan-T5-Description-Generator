@@ -1,0 +1,77 @@
+checklist = {
+    "Location/Setting": {
+        "Urban areas with buildings": "Visible large building with multiple windows and trees along the street.",
+        "City street": "Busy city street with multiple lanes and traffic.",
+        "Highway, suburban, rural, mountainous": "N/A",
+        "Vehicles in a parking lot, tollbooth, or on a highway ramp": "N/A",
+        "Narrow streets or cobblestone roads": "N/A"
+    },
+    "Vehicle Information": {
+        "Vehicle types": "Bicycles, yellow taxis, cars, motorbike, and a bus.",
+        "Vehicle colors": "Yellow (taxi), black, gray.",
+        "License plates": "Not clearly visible.",
+        "Electric bikes and scooters present": "N/A"
+    },
+    "Traffic and Road Elements": {
+        "Traffic density": "Moderate with cars, taxis, and a motorbike visible in the lane.",
+        "Road markings": "Arrows indicating direction on the road.",
+        "Signage": "N/A",
+        "Road conditions": "Dry road.",
+        "Traffic lights": "N/A",
+        "Pedestrian elements": "N/A",
+        "Road barriers": "N/A",
+        "Bus stops or taxi stands": "N/A"
+    },
+    "Environmental and Weather Conditions": {
+        "Time of day": "Daylight, possibly overcast.",
+        "Weather conditions": "Clear with overcast skies.",
+        "Seasons": "N/A",
+        "Visibility impacted by fog, snow, or glare": "N/A"
+    },
+    "Safety Equipment and Measures": {
+        "Seatbelts": "N/A",
+        "Car seats": "N/A",
+        "Helmets": "Cyclist and motorcyclist both wearing helmets.",
+        "Airbags": "N/A",
+        "Car cameras": "N/A",
+        "Steering controls": "N/A",
+        "Other safety-related devices": "N/A"
+    },
+    "Driver and Passenger Behaviors": {
+        "Driver distraction": "N/A",
+        "Passenger activities": "N/A",
+        "Emotional expressions": "Focused expression on the cyclist.",
+        "Body language": "Cyclist has a focused posture, hands firmly on handlebars.",
+        "Hands on the wheel": "N/A",
+        "Seat adjustments": "N/A",
+        "Sunglasses": "N/A"
+    },
+    "Technology Inside the Vehicle": {
+        "Mobile phones": "N/A",
+        "Navigation screens": "N/A",
+        "Car dashboard displays": "N/A",
+        "Interior mirrors": "N/A"
+    },
+    "Exterior and Pedestrian Elements": {
+        "Pedestrians walking on sidewalks, crossing streets": "N/A",
+        "Pedestrians using crosswalks, jaywalking, or standing on curbs": "N/A",
+        "Cyclists and bikers": "Cyclist on the road alongside motorized vehicles.",
+        "Other drivers": "Motorcyclist sharing the lane with other vehicles.",
+        "Street vendors": "N/A",
+        "Street furniture": "N/A"
+    },
+    "Miscellaneous Elements": {
+        "Roadside advertisements": "N/A",
+        "Shops and storefronts": "N/A",
+        "Parked vehicles": "N/A",
+        "Construction zones": "N/A"
+    },
+    "Distracted drivers": "N/A",
+    "Passengers assisting with navigation": "N/A",
+    "Child in car seat": "N/A",
+    "Hands on mobile phones": "N/A",
+    "Seatbelt buckling/unbuckling": "N/A",
+    "Phone conversation while driving": "N/A",
+    "Rear-view focus": "N/A",
+    "Child safety seats": "N/A"
+}
